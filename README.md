@@ -4,7 +4,7 @@
 
 This project is an Excel-based analytical dashboard built using raw transactional data from a coffee shop. It transforms basic sales data into actionable insights using Excel functions, PivotTables, slicers, and visualizations. This repository includes both the original data and the finalized interactive report.
 
-📂 Files Included
+📂 Files Included 
 Base file_Coffee Shop Sales.xlsx➔ Raw transactional data with product details, pricing, store information, and timestamps.
 Final report_Coffee Shop Sales.xlsx➔ Completed analytical dashboard using PivotTables, charts, and slicers for interactivity.
 
